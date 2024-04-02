@@ -7,3 +7,5 @@ Alumno: Jesus Salvador Juarez Cruz
 [Tarea 2 - Evaluacion con NAcAL](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Tarea_2.ipynb)
 
 [Tarea 3 - Propiedades de linealidad del Vector](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Tarea_3.ipynb)
+
+[Tarea 4 - Ejercicios](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Tarea_4.ipynb)
