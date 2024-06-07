@@ -9,3 +9,7 @@ Alumno: Jesus Salvador Juarez Cruz
 [Tarea 3 - Propiedades de linealidad del Vector](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Tarea_3.ipynb)
 
 [Tarea 4 - Ejercicios](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Tarea_4.ipynb)
+
+[Tarea 5 - Ejercicios](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Tarea_5.ipynb)
+
+[Examen 1 -Primera Unidad](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Examen1AL_Jesus_Salvador_Juarez_Cruz.ipynb)
