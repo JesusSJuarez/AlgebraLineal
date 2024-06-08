@@ -13,3 +13,5 @@ Alumno: Jesus Salvador Juarez Cruz
 [Tarea 5 - Ejercicios](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Tarea_5.ipynb)
 
 [Examen 1 -Primera Unidad](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Examen1AL_Jesus_Salvador_Juarez_Cruz.ipynb)
+
+[Examen 2 -Segunda Unidad](https://github.com/JesusSJuarez/AlgebraLineal/blob/main/Examen_II.ipynb)
